@@ -9,13 +9,14 @@
 [TeamSpeak 3 Client](http://www.teamspeak.com/downloads)
 
 ## How to play
-Open [TeamSpeak 3 Client](http://www.teamspeak.com/downloads)
 Launch the game using the [Launcher](https://get.frontline.frl)
 
   - Run
   - Configure (`Options` button)
   - `Install` or `Update` button
   - `Play`
+
+This will also launch the `TS3 Client` and connect to the [Frontline TS3 Server](ts3server://frontline.frl) 
 
 _After leaving the lobby, you'll be automatically assigned to a side_
 
