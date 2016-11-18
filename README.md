@@ -53,15 +53,16 @@ No radio configuration needed.
   - Access healing options using the __scroll wheel__
   - Select `Field dressing` and hold `right mouse button` to bandage yourself. Apply several times if required (might need a medic to fully recover)
 
-  Before dying, a player becomes `incapacitated`, with a bleeding timeout of 2 minutes. To revive an incap player:
+Before dying, a player becomes `incapacitated`, with a bleeding timeout of 2 minutes. To revive an incap player:
 
   1. Apply __1 single bandage__ by selecting `Field dressing` and holding `left mouse button`
   2. Inject `Adrenaline`
   3. Apply `Field dressing`. Will require a medic to fully recover.
   4. If player is shacking, inject `Morphine`
 
-  Drag an incapacitated team mate by pressing `E`
-  Medics heal others __faster__ and are the only ones to make wounded players to __fully recover__ when applying `Field dressing`. If you are a medic, _stay alive!_, your squad needs you.
+Drag an incapacitated team mate by pressing `E`
+
+Medics heal others __faster__ and are the only ones to make wounded players to __fully recover__ when applying `Field dressing`. If you are a medic, _stay alive!_, your squad needs you.
 
 ### <a name="aasgamemode"></a>Advance And Secure gamemode
   - Controlling more than half of the flags will result in ticket bleed for the opposing team.
