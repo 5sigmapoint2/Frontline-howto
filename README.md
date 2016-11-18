@@ -23,7 +23,7 @@ _After leaving the lobby, you'll be automatically assigned to a side_
 
   - Rifleman: _cannon fodder_
   - Medic: _armed nurse_
-  - Machine Gunner `MG`: _suppression guy__
+  - Machine Gunner `MG`: _suppression guy_
   - Grenadier: _explosive stones thrower_
   - Engineer: _crazy guy with shotgun and explosives_
   - Anti Tank `AT`: _that other guy_
@@ -50,8 +50,8 @@ If you have commanding skills, then try `creating` a squad and become its Squad 
 No radio configuration needed.
 
 ### Healing
-  Access healing options using the __scroll wheel__
-  Select `Field dressing` and hold `right mouse button` to bandage yourself. Apply several times if required (might need a medic to fully recover)
+  - Access healing options using the __scroll wheel__
+  - Select `Field dressing` and hold `right mouse button` to bandage yourself. Apply several times if required (might need a medic to fully recover)
 
   Before dying, a player becomes `incapacitated`, with a bleeding timeout of 2 minutes. To revive an incap'd player:
 
@@ -61,7 +61,7 @@ No radio configuration needed.
     4. If player is shacking, inject `Morphine`
 
   Drag an incapacitated team mate by pressing `E`
-  Medics heal others __faster__ and are the only ones to make wounded players to __fully recover__ when applying `Field dressing`. If you are a medic, _stay alive!_,your squad needs you.
+  Medics heal others __faster__ and are the only ones to make wounded players to __fully recover__ when applying `Field dressing`. If you are a medic, _stay alive!_, your squad needs you.
 
 ### <a name="aasgamemode"></a>Advance And Secure gamemode
   - Controlling more than half of the flags will result in ticket bleed for the opposing team.
@@ -82,4 +82,4 @@ No radio configuration needed.
     * Open the map
     * `Right click` and select your marker from the list.
   - Destroy enemy `FOs` you find by tactical guarding it within a 75m radius for 2 minutes (minimum 2 players). During that period, the enemy `FO` will be _blocked_. If you leave the area without destroying it, it will remain blocked for 2 minutes.
-  - Rearm at `RP` and `FO` by looking at it and pressing `F`. Available again after 5 minutes.
+  - Rearm at `RP` and `FO` by looking at it and pressing `F`. Available again in 5 minutes.
