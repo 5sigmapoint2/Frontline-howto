@@ -1,13 +1,14 @@
 #HSLIDE
 # FRONTLINE
 
-<span style="font-size:0.6em; color:gray">An Arma 3 PvP mod based on PRA3</span>
+An Arma 3 PvP mod based on PRA3
 
   - [website](http://www.frontline.frl)
   - [launcher](https://get.frontline.frl)
   - [discord](http://discord.frontline.frl) ask for `tester status`
   - [issue tracker](http://issues.frontline.frl)
 
+<span style="font-size:0.6em; color:gray">'F' :: Fullscreen - '?' :: Help - 'O' :: Overview</span>
 #HSLIDE
 ### Prerequisite
 [TeamSpeak 3 Client](http://www.teamspeak.com/downloads)
