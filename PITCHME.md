@@ -8,7 +8,7 @@ An Arma 3 PvP mod based on PRA3
   - [discord](http://discord.frontline.frl) ask for `tester status`
   - [issue tracker](http://issues.frontline.frl)
 
-<span style="font-size:0.6em; color:gray">'F' :: Fullscreen - '?' :: Help - 'O' :: Overview</span>
+<span style="font-size:0.6em; color:gray">'F' Fullscreen | '?' Help | 'O' Overview</span>
 #HSLIDE
 ### Prerequisite
 [TeamSpeak 3 Client](http://www.teamspeak.com/downloads)
@@ -17,7 +17,7 @@ An Arma 3 PvP mod based on PRA3
 ## How to launch it?
 Launch the game using the [launcher](https://get.frontline.frl)
 
-<span style="font-size:0.6em; color:gray">Press Down key for details on how to use it</span>
+<span style="font-size:0.6em; color:gray">Press down key ![screenshot](resources/down-key.png) for details on how to use it</span>
 
 #VSLIDE
 ## <span style="font-size:0.6em; color:gray">Launcher::</span>Configure
@@ -46,19 +46,19 @@ This will also launch the `TS3 Client` and connect to the [Frontline TS3 Server]
 - Rifleman AT: _things go boom_
 - Engineer: _crazy guy with shotgun and explosives_
 
-<span style="font-size:0.6em; color:gray">Press Down key if you have what it takes to be a Squad Leader</span>
+<span style="font-size:0.6em; color:gray">Press down key ![screenshot](resources/down-key.png) if you have what it takes to be a Squad Leader</span>
 
 #VSLIDE
 ### Squad Leaders
 If you have commanding skills, then try `creating` a squad and become its Squad Leader (`SL`).
 As such you can:
-
-<span style="font-size:0.3em; color:gray">keep pressing down to reveal the features</span>
-
-- Place `waypoints` to guide your squad members. <!-- .element: class="fragment" -->
-- Place Rally Points (`RP`): lasts for 2 minutes and has a 2 minutes cooldown period. Available only to your __squad members__<!-- .element: class="fragment" -->
-- Deploy Forward Outposts (`FOs`): requires two other __team__ mates nearby. Available to the __whole team__<!-- .element: class="fragment" -->
-- Coordinate with other `SL` over the radio (see [Communicate](#communicate))<!-- .element: class="fragment" -->
+- Place `waypoints` to guide your squad members.
+#VSLIDE
+- Place Rally Points (`RP`): lasts for 2 minutes and has a 2 minutes cooldown period. Available only to your __squad members__
+#VSLIDE
+- Deploy Forward Outposts (`FOs`): requires two other __team__ mates nearby. Available to the __whole team__
+#VSLIDE
+- Coordinate with other `SL` over the radio (see [Communicate](#communicate))
 
 #HSLIDE
 ### Select a spawn point
@@ -125,12 +125,14 @@ Before dying, a player becomes `incapacitated`, with a bleeding timeout of 2 min
 
 #VSLIDE
 - Drag an incapacitated team mate by pressing `E`
+
+#VSLIDE
 - Medics heal others __faster__ and are the only ones to make wounded players to __fully recover__ when applying `Field dressing`. If you are a medic, _stay alive!_, your squad needs you.
 
 #HSLIDE
 ### <a name="aasgamemode"></a>Advance And Secure gamemode
 
-<span style="font-size:0.6em; color:gray">Press Down key for details</span>
+<span style="font-size:0.6em; color:gray">Press down key ![screenshot](resources/down-key.png) key for details</span>
 
 #VSLIDE
 ![screenshot](resources/map-flags.png)
@@ -168,6 +170,8 @@ Place marks on the map to let your team know of enemy locations:
 - Destroy enemy `FOs` you find by tactical guarding it within a 75m radius for 2 minutes (minimum 2 players). During that period, the enemy `FO` will be _blocked_. If you leave the area without destroying it, it will remain blocked for 2 minutes.
 
 #VSLIDE
--Rearm at `RP` and `FO` by looking at it and pressing `F`. Available again in 5 minutes.
+Rearming
+
+- Rearm at `RP` and `FO` by looking at it and pressing `F`. Available again in 5 minutes.
 
 ![screenshot](resources/rp.png)

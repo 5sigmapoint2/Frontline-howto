@@ -1,3 +1,2 @@
-theme-override : PITCHME.css
 theme : night
-logo : resources/frontline_logo_256.png
+logo : resources/frontline_logo.png
