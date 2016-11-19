@@ -162,6 +162,8 @@ Ending the game:
 
 #HSLIDE
 ### General tips
+![icon](resources/down-key.png)
+
 #VSLIDE
 Play the objective
 
