@@ -17,7 +17,8 @@ An Arma 3 PvP mod based on PRA3
 ## How to launch it?
 Launch the game using the [launcher](https://get.frontline.frl)
 
-<span style="font-size:0.6em; color:gray">Press down key for details on how to use it</span>![icon](resources/down_key.png)
+<span style="font-size:0.6em; color:gray">Press down key for details on how to use it</span>
+![icon](resources/down_key.png)
 
 #VSLIDE
 ## <span style="font-size:0.6em; color:gray">Launcher::</span>Configure
@@ -47,7 +48,8 @@ This will also launch the `TS3 Client` and connect to the [Frontline TS3 Server]
 - Rifleman AT: _things go boom_
 - Engineer: _crazy guy with shotgun and explosives_
 
-<span style="font-size:0.6em; color:gray">Press down key if you have what it takes to be a Squad Leader</span>![icon](resources/down_key.png)
+<span style="font-size:0.6em; color:gray">Press down key if you have what it takes to be a Squad Leader</span>
+![icon](resources/down_key.png)
 
 #VSLIDE
 ### Squad Leaders
@@ -133,7 +135,8 @@ Before dying, a player becomes `incapacitated`, with a bleeding timeout of 2 min
 #HSLIDE
 ### <a name="aasgamemode"></a>Advance And Secure gamemode
 
-<span style="font-size:0.6em; color:gray">Press down key key for details</span>![icon](resources/down_key.png)
+<span style="font-size:0.6em; color:gray">Press down key key for details</span>
+![icon](resources/down_key.png)
 
 #VSLIDE
 ![screenshot](resources/map-flags.png)
