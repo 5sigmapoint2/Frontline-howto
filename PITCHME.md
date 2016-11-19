@@ -17,7 +17,7 @@ An Arma 3 PvP mod based on PRA3
 ## How to launch it?
 Launch the game using the [launcher](https://get.frontline.frl)
 
-<span style="font-size:0.6em; color:gray">Press down key ![screenshot](resources/down-key.png) for details on how to use it</span>
+<span style="font-size:0.6em; color:gray">Press <img src="resources/down-key.png" alt="down key" /> for details on how to use it</span>
 
 #VSLIDE
 ## <span style="font-size:0.6em; color:gray">Launcher::</span>Configure
@@ -46,7 +46,7 @@ This will also launch the `TS3 Client` and connect to the [Frontline TS3 Server]
 - Rifleman AT: _things go boom_
 - Engineer: _crazy guy with shotgun and explosives_
 
-<span style="font-size:0.6em; color:gray">Press down key ![screenshot](resources/down-key.png) if you have what it takes to be a Squad Leader</span>
+<span style="font-size:0.6em; color:gray">Press <img src="resources/down-key.png" alt="down key" /> if you have what it takes to be a Squad Leader</span>
 
 #VSLIDE
 ### Squad Leaders
@@ -132,7 +132,7 @@ Before dying, a player becomes `incapacitated`, with a bleeding timeout of 2 min
 #HSLIDE
 ### <a name="aasgamemode"></a>Advance And Secure gamemode
 
-<span style="font-size:0.6em; color:gray">Press down key ![screenshot](resources/down-key.png) key for details</span>
+<span style="font-size:0.6em; color:gray">Press <img src="resources/down-key.png" alt="down key" /> key for details</span>
 
 #VSLIDE
 ![screenshot](resources/map-flags.png)
@@ -175,3 +175,7 @@ Rearming
 - Rearm at `RP` and `FO` by looking at it and pressing `F`. Available again in 5 minutes.
 
 ![screenshot](resources/rp.png)
+
+#HSLIDE
+## Media
+![Video](https://www.youtube.com/embed/qm4CUKGQ63s)
