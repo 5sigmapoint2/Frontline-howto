@@ -1,5 +1,6 @@
 #HSLIDE
-![logo](resources/frontline_logo_256.png)
+# FRONTLINE
+
 <span style="font-size:0.6em; color:gray">An Arma 3 PvP mod based on PRA3</span>
 
   - [website](http://www.frontline.frl)
@@ -8,12 +9,13 @@
   - [issue tracker](http://issues.frontline.frl)
 
 #HSLIDE
-## Prerequisite
-[TeamSpeak 3 Client](http://www.teamspeak.com/downloads) ![logo](https://www.teamspeak.com/assets/logos/teamspeak.png)
+### Prerequisite
+[TeamSpeak 3 Client](http://www.teamspeak.com/downloads)
 
 #HSLIDE
 ## How to launch it?
 Launch the game using the [launcher](https://get.frontline.frl)
+
 <span style="font-size:0.6em; color:gray">Press Down key for details on how to use it</span>
 
 #VSLIDE
@@ -34,7 +36,7 @@ This will also launch the `TS3 Client` and connect to the [Frontline TS3 Server]
 ![screenshot](resources/squad-screen.png)
 
 #HSLIDE
-### Join a squad and select a role:
+### Join a squad and select a role
 
 - Rifleman: _cannon fodder_
 - Combat Life Saver: _armed nurse_
@@ -47,13 +49,15 @@ This will also launch the `TS3 Client` and connect to the [Frontline TS3 Server]
 
 #VSLIDE
 ### Squad Leaders
-If you have commanding skills, then try `creating` a squad and become its Squad Leader (`SL`). As such you can:
-<span style="font-size:0.1em; color:gray">keep pressing down to reveal the features</span>
+If you have commanding skills, then try `creating` a squad and become its Squad Leader (`SL`).
+As such you can:
 
-- Place `waypoints` to guide your squad members.
-- Place Rally Points(`RP`): lasts for 2 minutes and has a 2 minutes cooldown period. Available only to your __squad members__. <!-- .element: class="fragment" -->
-- Deploy Forward Outposts (`FOs`): requires two other __team__ mates nearby. Available to the __whole team__ <!-- .element: class="fragment" -->
-- Coordinate with other `SL` over the radio (see [Communicate](#communicate)) <!-- .element: class="fragment" -->
+<span style="font-size:0.3em; color:gray">keep pressing down to reveal the features</span>
+
+- Place `waypoints` to guide your squad members. <!-- .element: class="fragment" -->
+- Place Rally Points (`RP`): lasts for 2 minutes and has a 2 minutes cooldown period. Available only to your __squad members__<!-- .element: class="fragment" -->
+- Deploy Forward Outposts (`FOs`): requires two other __team__ mates nearby. Available to the __whole team__<!-- .element: class="fragment" -->
+- Coordinate with other `SL` over the radio (see [Communicate](#communicate))<!-- .element: class="fragment" -->
 
 #HSLIDE
 ### Select a spawn point
@@ -92,6 +96,7 @@ No radio configuration needed.
 ### Healing
 - Access healing options using the __scroll wheel__
 - Select `Field dressing` and hold `right mouse button` to bandage yourself. Apply several times if required (might need a medic to fully recover)
+
 ![screenshot](resources/field-dressing.png)
 ![screenshot](resources/bandage.png)
 
@@ -99,33 +104,35 @@ No radio configuration needed.
 Before dying, a player becomes `incapacitated`, with a bleeding timeout of 2 minutes. To revive an incap player:
 
 #VSLIDE
-1. Apply __1 single bandage__ by selecting `Field dressing` and holding `left mouse button`
+- Apply __1 single bandage__ by selecting `Field dressing` and holding `left mouse button`
+
 ![screenshot](resources/field-dressing.png)
 ![screenshot](resources/bandage.png)
 ![screenshot](resources/bandage-in-progress.png)
 
 #VSLIDE
-2. Inject `Adrenaline`
+- Inject `Adrenaline`
+
 ![screenshot](resources/adrenaline.png)
 ![screenshot](resources/adrenaline-in-progress.png)
 
 #VSLIDE
-3. Apply `Field dressing` again. Will require a medic to fully recover.
+- Apply `Field dressing` again. Will require a medic to fully recover.
 
 #VSLIDE
-4. If player is shacking, inject `Morphine`
+- If player is shacking, inject `Morphine`
 
 #VSLIDE
-Also
-
 - Drag an incapacitated team mate by pressing `E`
 - Medics heal others __faster__ and are the only ones to make wounded players to __fully recover__ when applying `Field dressing`. If you are a medic, _stay alive!_, your squad needs you.
 
 #HSLIDE
 ### <a name="aasgamemode"></a>Advance And Secure gamemode
 
+<span style="font-size:0.6em; color:gray">Press Down key for details</span>
+
 #VSLIDE
-![screenshot](resources/rp.png)map-flags
+![screenshot](resources/map-flags.png)
 
 #VSLIDE
 Controlling more than half of the flags will result in ticket bleed for the opposing team.
@@ -157,8 +164,9 @@ Place marks on the map to let your team know of enemy locations:
   * `Right click` and select your marker from the list.
 
 #VSLIDE
-Destroy enemy `FOs` you find by tactical guarding it within a 75m radius for 2 minutes (minimum 2 players). During that period, the enemy `FO` will be _blocked_. If you leave the area without destroying it, it will remain blocked for 2 minutes.
+- Destroy enemy `FOs` you find by tactical guarding it within a 75m radius for 2 minutes (minimum 2 players). During that period, the enemy `FO` will be _blocked_. If you leave the area without destroying it, it will remain blocked for 2 minutes.
 
 #VSLIDE
-Rearm at `RP` and `FO` by looking at it and pressing `F`. Available again in 5 minutes.
+-Rearm at `RP` and `FO` by looking at it and pressing `F`. Available again in 5 minutes.
+
 ![screenshot](resources/rp.png)
