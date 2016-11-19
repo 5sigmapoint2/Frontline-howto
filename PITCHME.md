@@ -106,6 +106,8 @@ No radio configuration needed.
 ![screenshot](resources/field-dressing.png)
 ![screenshot](resources/bandage.png)
 
+![icon](resources/down-key.png)
+
 #VSLIDE
 Before dying, a player becomes `incapacitated`, with a bleeding timeout of 2 minutes. To revive an incap player:
 
