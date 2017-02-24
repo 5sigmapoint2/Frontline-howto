@@ -183,7 +183,7 @@ Place marks on the map to let your team know of enemy locations:
 #VSLIDE
 Rearming
 
-- Rearm at `RP` and `FO` by looking at it and pressing `F`. Available again in 5 minutes.
+- Rearm at `RP` and `FO` by looking at it and pressing `F`. Available again in 7 minutes and 30 seconds.
 
 ![screenshot](resources/rp.png)
 
