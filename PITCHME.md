@@ -5,7 +5,7 @@ An Arma 3 PvP mod based on PRA3
 
   - [website](http://www.frontline.frl)
   - [launcher](https://get.frontline.frl)
-  - [discord](http://discord.frontline.frl) ask for `tester status`
+  - [discord](http://discord.frontline.frl)
   - [issue tracker](http://issues.frontline.frl)
 
 <span style="font-size:0.6em; color:gray">'F' Fullscreen | '?' Help | 'O' Overview</span>
